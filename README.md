@@ -12,11 +12,11 @@ Diabetic Retinopathy(DR) early so people can receive treatment before it becomes
 - we applied gray scale, circle crop and gaussian blur on the images so the features of the images can be clearer and easier for the models to work on
 
 **Image Before pre-processing**
-![unprocessed image](sample images/unprocessed.png)
+![unprocessed image](/sample images/unprocessed.png)
 
 **Image After pre-processing**
-![pre-processed image](sample images/processed.png)
+![pre-processed image](/sample images/processed.png)
 
 # GUI Prototype
-![GUI image](sample images/test result.png)
+![GUI image](/sample images/test result.png)
 
