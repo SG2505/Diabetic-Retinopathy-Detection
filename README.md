@@ -9,9 +9,10 @@ Diabetic Retinopathy(DR) early so people can receive treatment before it becomes
 # Dataset and Pre-Processing
 - APTOS 2019 Dataset was used to train these models 
 - In addition we did some image augmentation with python scripts on classes 3 and 4 because their data were not as much as the other classes
-- we applied gray scale, circle crop and gaussian blur on the images so the features of the images can be clearer and easier for the models to work on
+- we applied gray scale, circle crop and gaussian blur and resizing on the images so the features of the images can be clearer and easier for the models to work on
 
 **Image Before pre-processing**
+
 ![unprocessed image](sample%20images/unprocessed.png)
 
 **Image After pre-processing**
