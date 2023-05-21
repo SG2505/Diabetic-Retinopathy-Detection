@@ -15,6 +15,8 @@ Diabetic Retinopathy(DR) early so people can receive treatment before it becomes
 ![unprocessed image](sample%20images/unprocessed.png)
 
 **Image After pre-processing**
+
+
 ![pre-processed image](sample%20images/processed.png)
 
 # GUI Prototype
